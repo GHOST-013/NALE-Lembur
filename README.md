@@ -1,0 +1,6 @@
+- penambahan alert untuk setiap aktivitas yang gagal dan sukses
+- ID data tidak perlu ditampilkan
+- Konsistensi bahasa menggunakan Bahasa Indonesia
+- Mengatasi data lembur yang tumpang tindih (cth: terdapat 2 data indra lembur di jam yang sama di tanggal yang sama)
+- untuk tabelnya menggunakan jQuery atau framework lainnya supaya pencarian data leebih mudah
+- penambahan favicon tab web lembur\
